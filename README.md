@@ -72,6 +72,10 @@ $ curl https://blockchain.info/unspent?active=1Cdid9KFAaatwczBwBttQcwXYCpvK8h7FK
 }
 ```
 
+这个响应展示了Alice的地址1Cdid9KFAaatwczBwBttQcwXYCpvK8h7FKxia下有一笔未花费的输出.响应内容包括包含这笔输出的交易的引用以及它的价值,相当于0.10(1000万聪),利用这些信息,Alice的钱包应用可以构建一个交易,并将该值转移到新的所有者地址.
+
+
+
 **2. 创建输出**
 
 **3. 将交易加入账本**
