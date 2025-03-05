@@ -192,7 +192,7 @@ coinbase这类交易比较特殊,它是每个块中的第一个交易,这笔交�
   {
     "value": 0.01500000,
     "scriptPubKey": "OP_DUP OP_HASH160 ab68025513c3dbd2f7b92a94e0581f5d50f654e7 OP_EQUALVERIFY
-    OP_CHECKSIG"
+    OP_CHECKSIG",
   },
   {
     "value": 0.08450000,
